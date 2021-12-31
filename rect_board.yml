@@ -1,0 +1,6 @@
+board:
+  type: rect
+  dimensions:
+    width: 4
+    height: 5
+  initial_snake_length: 3
